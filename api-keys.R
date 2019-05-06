@@ -1,0 +1,1 @@
+api.key.nytimes = "JJmGZquTTa6GEgAZ6ZcppCOw8hXoWObI"
